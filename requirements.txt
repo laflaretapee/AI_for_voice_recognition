@@ -1,0 +1,8 @@
+os-sys
+numpy
+pyaudio
+wave
+librosa
+soundfile
+scikit-learn
+tensorflow
